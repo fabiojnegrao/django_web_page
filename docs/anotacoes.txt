@@ -1,0 +1,23 @@
+ Aula dia 13.11.2024
+ 
+ python3 manage.py shell 
+
+ pip install Django
+
+ source manage.py shell
+
+ git push
+
+ git commit -m"meu primeiro commit"
+
+ git add --all
+
+ source ./.venv/bin/activate
+
+ ctrl + tecla d sai dos >>>
+
+ python3 manage.py runserver para testar e 
+ verificar se o comando foi certo abre uma 
+ página web com a mensagem do django
+ "The install worked success..." deu certo!!
+ ao colocar /admin na URL vc entra na tela Django administration onde esta "username" e "password"
